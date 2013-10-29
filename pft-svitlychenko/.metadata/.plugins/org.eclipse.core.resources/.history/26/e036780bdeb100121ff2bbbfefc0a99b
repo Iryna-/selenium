@@ -1,0 +1,16 @@
+package com.example.tests;
+
+import org.testng.annotations.Test;
+
+import com.example.fw.User;
+
+public class SignupTest extends TestBase{
+
+	@Test
+	public void newUserShouldSignUp(){
+		User user = new User().setUsername("testuser1").setPassword("123456").setEmail("testuser1@localhost");
+		app.getAccountHelper().signUp(user);
+		assertTrue(app.getAccountHelper().isLoggedIn(user));
+		
+	}
+}

@@ -1,0 +1,7 @@
+1365867278318	Delete element
+1365875466776	Rename field 'exec'
+1365876626184	Delete element
+1365879392225	Extract method 'initContactCreation'
+1365879448227	Extract method 'fillInContactForm'
+1365879482133	Extract method 'confirmContactCreation'
+1365881083418	Delete element

@@ -1,0 +1,10 @@
+package com.example.fw;
+
+public class HelperWithWebDriverBase extends HelperBase {
+
+	public HelperWithWebDriverBase(ApplicationManager applicationManager) {
+		 protected void openUrl (String string){
+		 driver.get(manager.getProperty("baseUrl"+string));
+	}
+	}
+}

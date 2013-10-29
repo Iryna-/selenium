@@ -1,0 +1,26 @@
+package com.example.fw;
+
+import org.openqa.selenium.By;
+
+public class AccountHelper extends HelperWithWebDriverBase {
+
+	public AccountHelper(ApplicationManager applicationManager) {
+		super (applicationManager);
+	}
+
+	public void signUp(User user) {
+		openUrl ("/");
+		click(By.cssSelector("span.bracket-link"));
+		driver.findElement(By.name("username")).clear();
+		driver.findElement(By.name("username")).sendKeys("a");
+		driver.findElement(By.name("email")).clear();
+		driver.findElement(By.name("email")).sendKeys("a");
+		driver.findElement(By.cssSelector("input.button")).click();
+	}
+
+	public boolean isLoggedIn(User user) {
+		
+		return false;
+	}
+
+}

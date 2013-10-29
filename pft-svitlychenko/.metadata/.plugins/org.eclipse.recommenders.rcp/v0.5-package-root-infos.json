@@ -1,0 +1,470 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "246810b605cfc71abbcf1e8608387b772a54a5f1",
+    "jarFileModificationDate": "2013-02-26T21:03:57.135Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.thoughtworks.xstream.xstream",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "488e9e4a47afc81d2b2dec3c3eb3a4d0f10fe105",
+    "jarFileModificationDate": "2013-03-31T20:23:52.669+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\xstream-1.4.4\\lib\\xstream-1.4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8e3c1a5f45aa21e1124de8dbbf6abf1cdd2fc577",
+    "jarFileModificationDate": "2013-02-26T21:03:52.455Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb167357ee595f9ee0867dbf74516208851547fe",
+    "jarFileModificationDate": "2013-02-26T21:03:52.283Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 24,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a7d599d73b86a928303909b9be7573a4ea0ed28e",
+    "jarFileModificationDate": "2013-04-21T21:29:13.360+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\mysql-connector-java-5.1.24\\mysql-connector-java-5.1.24\\mysql-connector-java-5.1.24-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "efc79fab60c21a3d8a58e30bb38a894752c37d96",
+    "jarFileModificationDate": "2013-02-26T21:03:57.182Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "719766999237186ded45d5ae899783fd09ffdcdb",
+    "jarFileModificationDate": "2013-02-26T21:03:52.299Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.transaction.jboss-transaction-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "2ab6236535e085d86f37fd97ddfdd35c88c1a419",
+    "jarFileModificationDate": "2013-04-24T22:22:24.130+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\jboss-transaction-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "antlr-2.7.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "83cd2cd674a217ade95a4bb83a8a14f351f48bd0",
+    "jarFileModificationDate": "2013-04-24T22:22:23.959+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\antlr-2.7.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xmlpull-1.1.3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2b8e230d2ab644e4ecaa94db7cdedbc40c805dfa",
+    "jarFileModificationDate": "2013-03-31T20:23:58.149+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\xstream-1.4.4\\lib\\xstream\\xmlpull-1.1.3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jacob",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4a626802e1082903446dc7850bea9c33a7a8656b",
+    "jarFileModificationDate": "2012-04-24T20:55:58+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\jacob-1.17-M2\\jacob-1.17-M2\\jacob.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "AutoItX4Java",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b955f188ef4c38a4d707062a6ffc1d1f06271ad",
+    "jarFileModificationDate": "2013-04-21T22:11:46.102+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\lib\\lib\\AutoItX4Java.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "852134173b2be0d91f8931bec24ca041f8e9420f",
+    "jarFileModificationDate": "2013-02-26T21:03:52.580Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.jboss.logging.jboss-logging",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "GA"
+    },
+    "jarFileFingerprint": "c71f2856e7b60efe485db39b37a31811e6c84365",
+    "jarFileModificationDate": "2013-04-24T22:22:24.052+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\jboss-logging-3.1.0.GA.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xpp3_min-1.1.4c",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "19d4e90b43059058f6e056f794f0ea4030d60b86",
+    "jarFileModificationDate": "2013-03-31T20:23:59.002+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\xstream-1.4.4\\lib\\xstream\\xpp3_min-1.1.4c.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "addressbook",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3c63cb648cc0286b314a89e7d42ce435fc21917f",
+    "jarFileModificationDate": "2013-04-03T23:14:48.528+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\AddressBook-14-42\\AddressBook\\lib\\addressbook.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jemmy",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2e78e20f735c10d182d7d1e642caba366a8a28b5",
+    "jarFileModificationDate": "2013-04-04T22:29:11.283+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\jemmy\\jemmy.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5da320e46f1c616986563b2e788b5a0569cad088",
+    "jarFileModificationDate": "2013-02-26T21:03:52.424Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "dom4j-1.6.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5d3ccc056b6f056dbf0dddfdf43894b9065a8f94",
+    "jarFileModificationDate": "2013-04-24T22:22:24.177+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\dom4j-1.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javassist",
+    "version": {
+      "major": 3,
+      "minor": 17,
+      "micro": 1,
+      "qualifier": "GA"
+    },
+    "jarFileFingerprint": "30c30512115866b6e0123f1913bc7735b9f76d08",
+    "jarFileModificationDate": "2013-04-24T22:22:25.129+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\javassist-3.17.1-GA.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "testng",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1890fb4edd6727d923352e566fa781db4423316b",
+    "jarFileModificationDate": "2012-11-20T18:17:56Z",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\eclipse-java-juno-SR1-win32-x86_64\\eclipse\\plugins\\org.testng.eclipse_6.8.0.20121120_1820\\lib\\testng.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.11-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f3289e8097c0013b711d058b563064c3bded4423",
+    "jarFileModificationDate": "2013-04-10T22:33:19.286+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\junit-4.11-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2013-02-26T21:03:52.424Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.hibernate.javax.persistence.hibernate-jpa-2.0-api",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "3306a165afa81938fc3d8a0948e891de9f6b192b",
+    "jarFileModificationDate": "2013-04-24T22:22:24.349+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\hibernate-jpa-2.0-api-1.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.hibernate.common.hibernate-commons-annotations",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "78bcf608d997d0529be2f4f781fdc89e801c9e88",
+    "jarFileModificationDate": "2013-04-24T22:22:24.302+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\hibernate-commons-annotations-4.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2013-02-26T21:03:52.580Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.yaml.snakeyaml",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a6562c9f5deb3cc74bce28f70d6a4d6545d3cae4",
+    "jarFileModificationDate": "2013-04-24T21:51:14.985+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.31.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "aldan3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ab79a8d0fb251e00569201344eb2f9ce607e7dba",
+    "jarFileModificationDate": "2013-04-03T23:14:48.263+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\AddressBook-14-42\\AddressBook\\ext\\lib\\aldan3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hibernate-core-4.1.9.Final",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "87e473509a5a61ca9988c1c4dd71ed6c80c598ab",
+    "jarFileModificationDate": "2013-04-24T22:22:30.792+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hibernate-release-4.1.9.Final\\hibernate-release-4.1.9.Final\\lib\\required\\hibernate-core-4.1.9.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-02-26T21:03:52.455Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "746cc77655ec06d07f35138bcfa6450a8a3be236",
+    "jarFileModificationDate": "2013-02-26T21:03:56.745Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "eb371912692801020d700aefa6dc5721f195c839",
+    "jarFileModificationDate": "2013-02-26T21:03:52.330Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1fabd85342f80911d0592b3406573b19fc218c26",
+    "jarFileModificationDate": "2013-02-26T21:03:56.542Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7cb2b9ca61571b03b39b00f091e40482088d86b1",
+    "jarFileModificationDate": "2013-02-26T21:03:52.938Z",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "selenium-server-standalone-2.30.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63e78358631971ce30e260ddac0e24e5acc7c21c",
+    "jarFileModificationDate": "2013-02-26T17:46:30Z",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.30.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hamcrest-all-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "86ede41040d5600dc258975edc2bd749a1c1443e",
+    "jarFileModificationDate": "2013-04-04T21:16:44.782+01:00",
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\hamcrest-all-1.1.jar",
+    "javaRuntime": false
+  }
+]

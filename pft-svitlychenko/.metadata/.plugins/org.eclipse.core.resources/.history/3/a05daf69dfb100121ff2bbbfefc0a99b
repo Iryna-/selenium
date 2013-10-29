@@ -1,0 +1,9 @@
+package com.example.fw;
+
+public class HelperWithWebDriverBase {
+
+	public HelperWithWebDriverBase(ApplicationManager applicationManager) {
+
+	}
+
+}

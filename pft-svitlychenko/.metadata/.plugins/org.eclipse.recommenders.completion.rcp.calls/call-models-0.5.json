@@ -1,0 +1,38 @@
+{
+  "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-java-tests\\src": {
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-java-tests\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-java-tests\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre7\\lib\\rt.jar\u0027. Skipped."
+  },
+  "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-native-tests\\src": {
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-native-tests\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-native-tests\\src\u0027. Skipped."
+  },
+  "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.30.0.jar": {
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.30.0.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.30.0.jar\u0027. Neither fingerprint \u002763e78358631971ce30e260ddac0e24e5acc7c21c\u0027 nor symbolic name \u0027selenium-server-standalone-2.30.0\u0027 are known."
+  },
+  "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-selenium-tests\\src": {
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-selenium-tests\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\addressbook-selenium-tests\\src\u0027. Skipped."
+  },
+  "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\mantis-tests\\src": {
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\mantis-tests\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\George\\Desktop\\IrynaSWTesting\\Repository\\pft-svitlychenko\\mantis-tests\\src\u0027. Skipped."
+  },
+  "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.31.0.jar": {
+    "location": "C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.31.0.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\George\\Desktop\\IrynaSWTesting\\Tools\\selenium-server-standalone-2.31.0.jar\u0027. Neither fingerprint \u0027a6562c9f5deb3cc74bce28f70d6a4d6545d3cae4\u0027 nor symbolic name \u0027org.yaml.snakeyaml\u0027 are known."
+  }
+}

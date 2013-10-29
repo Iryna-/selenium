@@ -1,0 +1,18 @@
+package com.example.fw;
+
+public class AccountHelper extends HelperWithWebDriverBase {
+
+	public AccountHelper(ApplicationManager applicationManager) {
+		super (applicationManager);
+	}
+
+	public void signUp(User user) {
+		openUrl ("/signup_page.php");
+	}
+
+	public boolean isLoggedIn(User user) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

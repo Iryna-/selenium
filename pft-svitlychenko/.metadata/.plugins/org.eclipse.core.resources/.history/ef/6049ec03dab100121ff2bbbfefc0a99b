@@ -1,0 +1,17 @@
+package com.example.fw;
+
+public class User {
+
+	private String string;
+
+	public User setUsername(String string) {
+		this.string = string;
+		return this;
+	}
+
+	public Object setPassword(String string) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

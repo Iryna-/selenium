@@ -1,0 +1,50 @@
+<list>
+  <contact>
+    <firstname>test p</firstname>
+    <surname>test p</surname>
+    <address>test c</address>
+    <hphone>2079813744</hphone>
+    <mphone>2074815890</mphone>
+    <wphone>2078686077</wphone>
+    <email>test m</email>
+    <email2></email2>
+    <bday>17</bday>
+    <bmonth>January</bmonth>
+    <byear></byear>
+    <new__group>[none]</new__group>
+    <address2></address2>
+    <phone2></phone2>
+  </contact>
+  <contact>
+    <firstname></firstname>
+    <surname>test s</surname>
+    <address>test n</address>
+    <hphone>2077734591</hphone>
+    <mphone>2079011201</mphone>
+    <wphone>2075415219</wphone>
+    <email>test x</email>
+    <email2>test s</email2>
+    <bday>16</bday>
+    <bmonth>January</bmonth>
+    <byear>1984</byear>
+    <new__group>[none]</new__group>
+    <address2></address2>
+    <phone2>2073939354</phone2>
+  </contact>
+  <contact>
+    <firstname></firstname>
+    <surname></surname>
+    <address>test o</address>
+    <hphone></hphone>
+    <mphone></mphone>
+    <wphone>2076872738</wphone>
+    <email>test q</email>
+    <email2>test o</email2>
+    <bday>-</bday>
+    <bmonth>January</bmonth>
+    <byear>1961</byear>
+    <new__group>[none]</new__group>
+    <address2>test l</address2>
+    <phone2>2079804934</phone2>
+  </contact>
+</list>

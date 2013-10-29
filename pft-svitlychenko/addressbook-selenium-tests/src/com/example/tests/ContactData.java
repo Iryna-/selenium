@@ -1,0 +1,286 @@
+package com.example.tests;
+
+public class ContactData implements Comparable<ContactData> {
+	private String id;
+	private String firstname;
+	private String surname;
+	private String address;
+	private String hphone;
+	private String mphone;
+	private String wphone;
+	private String email;
+	private String email2;
+	private String bday;
+	private String bmonth;
+	private String byear;
+	private String new_group;
+	private String address2;
+	private String phone2;
+	
+	public ContactData() {
+		
+	}
+	
+	public ContactData(String firstname, String surname, String address,
+			String hphone, String mphone, String wphone, String email,
+			String email2, String bday, String bmonth, String byear, String new_group, 
+			String address2, String phone2) {
+		this.firstname = firstname;
+		this.surname = surname;
+		this.address = address;
+		this.hphone = hphone;
+		this.mphone = mphone;
+		this.wphone = wphone;
+		this.email = email;
+		this.email2 = email2;
+		this.bday = bday;
+		this.bmonth = bmonth;
+		this.byear = byear;
+		this.new_group = new_group;
+		this.address2 = address2;
+		this.phone2 = phone2;
+	}
+
+	
+	
+	@Override
+	public String toString() {
+		return "ContactData [fullname=" + surname + " " + firstname
+				+ " " + email + " " + hphone + "]";
+	}
+
+	
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		//result = prime * result + ((firstname == null) ? 0 : firstname.hashCode());
+		//result = prime * result + ((surname == null) ? 0 : surname.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		ContactData other = (ContactData) obj;
+		if (firstname == null) {
+			if (other.firstname != null)
+				return false;
+		} else if (!firstname.equals(other.firstname))
+			return false;
+		if (surname == null) {
+			if (other.surname != null)
+				return false;
+		} else if (!surname.equals(other.surname))
+			return false;
+		return true;
+	}
+
+	@Override
+	public int compareTo(ContactData other) {
+		
+		return this.firstname.toLowerCase().compareTo(other.firstname.toLowerCase());
+		
+	}
+
+	public ContactData withId(String id) {
+		this.id = id;
+		return this;
+	}
+	
+	public ContactData withFirstName(String firstName) {
+		firstname = firstName;
+		return this;
+	}
+
+	public ContactData withSurname(String surname) {
+		this.surname = surname;
+		return this;
+	}
+
+	public ContactData withAddress(String address) {
+		this.address = address;
+		return this;
+	}
+
+	public ContactData withHPhone(String hphone) {
+		this.hphone = hphone;
+		return this;
+	}
+
+	public ContactData withMPhone(String mphone) {
+		this.mphone = mphone;
+		return this;
+	}
+
+	public ContactData withWPhone(String wphone) {
+		this.wphone = wphone;
+		return this;
+	}
+
+	public ContactData withEmail(String email) {
+		this.email = email;
+		return this;
+	}
+
+	public ContactData withEmail2(String email2) {
+		this.email2 = email2;
+		return this;
+	}
+
+	public ContactData withBDay(String bday) {
+		this.bday = bday;
+		return this;
+	}
+
+	public ContactData withBMonth(String bmonth) {
+		this.bmonth = bmonth;
+		return this;
+	}
+
+	public ContactData withBYear(String byear) {
+		this.byear = byear;
+		return this;
+	}
+
+	public ContactData withNewGroup(String newgroup) {
+		new_group = newgroup;
+		return this;
+	}
+
+	public ContactData withAddress2(String address2) {
+		this.address2 = address2;
+		return this;
+	}
+
+	public ContactData withPhone2(String phone2) {
+		this.phone2 = phone2;
+		return this;
+	}
+
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+	}
+	
+	public String getFirstname() {
+		return firstname;
+	}
+
+	public void setFirstname(String firstname) {
+		this.firstname = firstname;
+	}
+
+	public String getSurname() {
+		return surname;
+	}
+
+	public void setSurname(String surname) {
+		this.surname = surname;
+	}
+
+	public String getAddress() {
+		return address;
+	}
+
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+	public String getHphone() {
+		return hphone;
+	}
+
+	public void setHphone(String hphone) {
+		this.hphone = hphone;
+	}
+
+	public String getMphone() {
+		return mphone;
+	}
+
+	public void setMphone(String mphone) {
+		this.mphone = mphone;
+	}
+
+	public String getWphone() {
+		return wphone;
+	}
+
+	public void setWphone(String wphone) {
+		this.wphone = wphone;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getEmail2() {
+		return email2;
+	}
+
+	public void setEmail2(String email2) {
+		this.email2 = email2;
+	}
+
+	public String getBday() {
+		return bday;
+	}
+
+	public void setBday(String bday) {
+		this.bday = bday;
+	}
+
+	public String getBmonth() {
+		return bmonth;
+	}
+
+	public void setBmonth(String bmonth) {
+		this.bmonth = bmonth;
+	}
+
+	public String getByear() {
+		return byear;
+	}
+
+	public void setByear(String byear) {
+		this.byear = byear;
+	}
+
+	public String getNew_group() {
+		return new_group;
+	}
+
+	public void setNew_group(String new_group) {
+		this.new_group = new_group;
+	}
+
+	public String getAddress2() {
+		return address2;
+	}
+
+	public void setAddress2(String address2) {
+		this.address2 = address2;
+	}
+
+	public String getPhone2() {
+		return phone2;
+	}
+
+	public void setPhone2(String phone2) {
+		this.phone2 = phone2;
+	}
+		
+}

@@ -1,0 +1,9 @@
+package com.example.fw;
+
+public class AccountHelper extends HelperWithWebDriverBase {
+
+	public AccountHelper(ApplicationManager applicationManager) {
+		super (applicationManager);
+	}
+
+}

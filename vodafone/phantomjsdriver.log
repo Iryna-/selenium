@@ -1,0 +1,5 @@
+[INFO  - 2013-08-30T12:49:14.041Z] GhostDriver - Main - running on port 16196
+[INFO  - 2013-08-30T12:49:14.364Z] Session [9320c870-1172-11e3-a5f2-a9244fad9033] - CONSTRUCTOR - Desired Capabilities: {"platform":"ANY","browserName":"phantomjs","version":""}
+[INFO  - 2013-08-30T12:49:14.364Z] Session [9320c870-1172-11e3-a5f2-a9244fad9033] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.1","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2013-08-30T12:49:14.365Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9320c870-1172-11e3-a5f2-a9244fad9033
+[INFO  - 2013-08-30T12:50:22.633Z] ShutdownReqHand - _handle - About to shutdown

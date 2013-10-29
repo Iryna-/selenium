@@ -1,0 +1,30 @@
+<configuration>
+  <!-- На консоль будут выводиться только сообщения уровня важности не ниже INFO -->
+  <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+    </encoder>
+    <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+      <level>INFO</level>
+    </filter>
+  </appender>
+
+  <!-- При каждом запуске будет создаваться новый файл -->
+  <!-- В файл будут выводиться все записи, всех уровней важности -->
+  <timestamp key="bySecond" datePattern="yyyyMMdd'T'HHmmss"/>
+  <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+    <file>target/test-output/log-${bySecond}.txt</file>
+    <encoder>
+      <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <!-- Эта инструкция отфильтровывает все сообщения от org.apache.http,
+   которые имеют уровень важности ниже INFO, они будут просто игнорироваться -->
+  <logger name="org.apache.http" level="INFO" />
+
+  <root level="debug">
+    <appender-ref ref="CONSOLE" />
+    <appender-ref ref="FILE" />
+  </root>
+</configuration>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="build" name="Recipe50">
+    <property environment="env"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+    <property name="source" value="1.6"/>
+    <path id="Selenium.classpath">
+        <pathelement location="C:/Tools/FuncTesting/selenium2/build/dist/selenium-server-standalone-2.25.0.jar"/>
+    </path>
+    <path id="Recipe50.classpath">
+        <pathelement location="bin"/>
+    	<fileset dir="lib">
+            <include name="**/*.jar"/>
+    	</fileset>
+        <path refid="Selenium.classpath"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="init" name="build">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="Recipe50.classpath"/>
+        </javac>
+    </target>
+    <target name="run-tests" depends="build">
+    	<mkdir dir="test-report"/>
+        <junit>
+            <classpath refid="Recipe50.classpath" />
+            <batchtest fork="yes" todir="test-report">
+                <fileset dir="src">
+                  <include name="**/*Test*.java"/>
+                </fileset>
+            </batchtest>
+        	<formatter type="plain"/>
+        </junit>
+    </target>
+</project>
